@@ -1,0 +1,2 @@
+mkdir -p build/release/
+c++ -I. -std=c++17 -Wall -Wextra -Wpedantic -O2 -DNDEBUG Src/main.cpp Ui/Menu.cpp -o build/release/binary_search_tree

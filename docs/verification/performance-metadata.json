@@ -1,0 +1,21 @@
+{
+  "returncode": 0,
+  "elapsed_seconds": 19.28723370899388,
+  "maximum_resident_size_bytes": 242532352,
+  "max_count": 3000000,
+  "ordered_limit": 10000,
+  "repeats": 3,
+  "seed": 1323,
+  "command": [
+    "./build/release/binary_search_tree",
+    "--performance",
+    "--max",
+    "3000000",
+    "--ordered-limit",
+    "10000",
+    "--repeats",
+    "3",
+    "--csv",
+    "docs/performance.csv"
+  ]
+}

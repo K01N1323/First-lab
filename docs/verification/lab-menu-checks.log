@@ -1,0 +1,16 @@
+eof: OK
+invalid-choice: OK
+int-operations: OK
+int-duplicates: OK
+int-overflow: OK
+int-collision: OK
+double-input: OK
+strings: OK
+generate-int: OK
+generate-double: OK
+generate-string: OK
+eof-in-value: OK
+eof-in-second: OK
+invalid CLI: OK
+small performance limit: OK
+Second_Lab alphabetical index menu: OK

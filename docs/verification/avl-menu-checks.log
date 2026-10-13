@@ -1,0 +1,11 @@
+int-menu: OK
+strings: OK
+double: OK
+bad-input: OK
+eof-value: OK
+map-duplicate: OK
+ordered-generation: OK
+30000-node non-AVL input rejected; old tree preserved; sanitizer menu: OK
+Second_Lab dictionary demo 1: OK
+Second_Lab dictionary demo 2: OK
+AVL CSV: 90 actual measurements, checksums: OK
